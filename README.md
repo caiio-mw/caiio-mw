@@ -19,8 +19,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiio-mw&show_icons=true&theme=dark&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiio-mw&theme=react-dark&hide_border=true" />
 </p>
