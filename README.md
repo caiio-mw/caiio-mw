@@ -19,8 +19,8 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Profile
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caiio-mw&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=caiio-mw&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 </p>
