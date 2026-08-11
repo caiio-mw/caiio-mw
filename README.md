@@ -18,9 +18,8 @@
 - ⚡ In my free time: Heavy riffs, dark fantasy manga, and continuous self-improvement.
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=caiio-mw&theme=dark&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=caiio-mw&theme=dark&hide_border=true&show_icons=true" alt="Caio's GitHub Stats" />
 </p>
