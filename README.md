@@ -19,8 +19,8 @@
 
 ---
 
-### 📊 GitHub Profile
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=caiio-mw&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=caiio-mw&theme=dark&hide_border=true&show_icons=true" />
 </p>
