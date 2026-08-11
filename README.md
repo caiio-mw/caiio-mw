@@ -22,5 +22,5 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=caiio-mw&theme=dark&show_icons=true&hide_border=true" alt="Caio's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=caiio-mw&theme=dark&show_icons=true&hide_border=true" />
 </p>
