@@ -20,5 +20,7 @@
 ---
 
 ### 📊 GitHub Stats
-<!-- Widget limpo em modo escuro -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiio-mw&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiio-mw&theme=dark&show_icons=true&hide_border=true" alt="Caio's GitHub Stats" />
+</p>
