@@ -13,7 +13,7 @@
 ---
 
 ### 📌 Sobre mim
-- 🔭 Atualmente estudando: **JavaScript, Node.js e Python** no freeCodeCamp.
+- 🔭 Atualmente estudando: **JavaScript, HTML, CSS e Python** no freeCodeCamp.
 - 🎯 Objetivo: Construir aplicações web funcionais, rápidas e bem projetadas
 - ⚡ No meu tempo livre: Riffs pesados, mangás dark e auto-aperfeiçoamento contínuo.
 
